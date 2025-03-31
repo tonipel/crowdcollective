@@ -1,0 +1,51 @@
+.create-form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.create-input-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.create-input-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: normal;
+}
+
+.create-input-group .title {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.create-input-group .content {
+  width: 100%;
+  height: 100px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+.create-form-header {
+  margin-bottom: auto;
+  padding-left: 20px;
+}
+
+.create-button {
+  background-color: rgb(17, 167, 79);
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+}
